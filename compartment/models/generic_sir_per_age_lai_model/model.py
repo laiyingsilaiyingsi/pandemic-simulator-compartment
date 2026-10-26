@@ -49,9 +49,6 @@ AGE_GROUPS = [
 ]
 
 
-# FIX I3: Add '## Change history' to model.md: original author and date; later changes (what, who,
-#   when); renamed from age_stratified_sir_model (old disease_type too). Fix it for me pre-fills the
-#   lines from the git history; check and complete them.
 class GenericSirPerAgeLaiModel(Model):
     """A schema-based SIR model whose transmission rate varies by age group."""
 
