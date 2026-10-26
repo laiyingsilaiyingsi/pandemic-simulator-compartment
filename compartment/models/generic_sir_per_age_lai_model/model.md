@@ -71,4 +71,4 @@ Closed population; homogeneous mixing within an (age band, region) cell; full im
 ## Change history
 
 - Aug 2026 — Created by laiyingsilaiyingsi as `age_stratified_sir_model` (`disease_type` `AGE_STRATIFIED_SIR`, label "Age-Stratified SIR (per-age transmission)"); PR #145, released in v0.2.12.
-- Oct 2026 — Renamed to `generic_sir_per_age_lai_model` (`disease_type` `generic_sir_per_age_lai`, label "Generic – SIR, per age transmission (Lai et al.)"); [to fill in: what else changed, and by whom].
+- Oct 2026 — Renamed to `generic_sir_per_age_lai_model` (`disease_type` `generic_sir_per_age_lai`, label "Generic – SIR, per age transmission (Lai et al.)"); by laiyingsilaiyingsi.
